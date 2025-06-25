@@ -80,10 +80,9 @@ resources:
     licensing:
       - "open-source"
     tags:
-      - metadata management
-      - data governance
-      - data lake
-      - federation
+      - platform
+      - data search and storage
+      - Other
     logo: logos/GravitinoLogoPNG.png
 
   - name: "Hugging Face"
